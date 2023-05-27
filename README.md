@@ -31,8 +31,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### ✍️ A Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 
 
