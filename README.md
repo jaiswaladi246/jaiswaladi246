@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 
-- 💬 Ask me about **DevOps Tools**
+- 💬 Ask me about **DevOps & Cloud DevOps**
 
 - 📫 How to reach me **masteraadi246@gmail.com**
 
