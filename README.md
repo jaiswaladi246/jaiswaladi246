@@ -28,12 +28,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### ✍️ A Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+
 
