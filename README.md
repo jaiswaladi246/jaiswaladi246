@@ -39,11 +39,4 @@
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&theme=dracula" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswaladi246&layout=compact" />
-
-![Metrics](https://github.com/jaiswaladi246/jaiswaladi246/blob/main/github-metrics.svg)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
