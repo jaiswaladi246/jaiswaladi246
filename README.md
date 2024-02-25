@@ -1,9 +1,12 @@
 <h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack">DevOpsHack</a></h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png">
+</p>
+
+<h3 align="center">A passionate DevOps Engineer from India. I work in Corporate IT Sector, and in my free time, I make YouTube videos at <a href="https://www.youtube.com/@devopsshack">DevOps Hack</a></h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="400">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="Coding">
 </p>
 
 <p align="center">
@@ -11,20 +14,15 @@
 </p>
 
 - 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
-
-- 🌱 I’m currently learning **DevSecOps & Cloud Devops**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
-
+- 🌱 I’m currently learning **DevSecOps & Cloud DevOps**
 - 💬 Ask me about **DevOps & Cloud DevOps**
-
-- 📫 How to reach me **masteraadi246@gmail.com**
+- 📫 How to reach me: **masteraadi246@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40"></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40"></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40"></a>
+  <a href="https://linkedin.com/in/adityajaiswal7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/devopsshack" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -53,9 +51,25 @@
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="jaiswaladi246">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246" alt="jaiswaladi246">
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
+<!-- Top Contributed Repo -->
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
