@@ -1,13 +1,9 @@
 <h1 align="center">Hello 👋, I'm Aditya Jaiswal</h1>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1A7FFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Passionate+about+Automation+and+CI%2FCD;Lifelong+Learner+%7C+Tech+Content+Creator">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1A7FFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Passionate+about+Automation+and+CI%2FCD;Lifelong+Learner+%7C+Tech+Content+Creator">
 </div>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coding Animation" width="400"/>
-</div>
-
-<h3 align="center">I build robust, scalable, and secure infrastructures using DevOps best practices. In my free time, I create content to help others excel in their tech careers.</h3>
+<h3 align="center">Building robust, scalable, and secure infrastructures using DevOps best practices.</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -44,10 +40,13 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-### 🎯 GitHub Profile Trophies
+### 🏆 GitHub Trophies
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=jaiswaladi246&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
