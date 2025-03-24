@@ -132,7 +132,7 @@
 - 🎤 Guest Sessions / Webinars
 - 🤝 Project Collabs / YouTube Collabs
 - 💼 DevOps Consulting / Mentorship
-- 📧 Let's chat: **adityajaiswal.devops@gmail.com**
+- 📧 Let's chat: **office@devopsshack.com**
 
 ---
 
