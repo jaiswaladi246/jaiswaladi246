@@ -7,9 +7,24 @@
 <h3 align="center">🚀 DevOps Engineer | Content Creator | Cloud Enthusiast</h3>
 
 <p align="center">
-  💻 Working in the IT Corporate Sector<br>
+  💻 Working in the IT Corporate Sector <br>
   🎥 Creating Practical DevOps & Cloud Content on <a href="https://www.youtube.com/@devopsshack" target="_blank"><strong>DevOpsShack</strong></a><br>
   🌍 Based in India | 🌐 Making Global Impact
+</p>
+
+---
+
+<p align="center">
+  <!-- Shields Badges -->
+  <a href="https://github.com/jaiswaladi246">
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+  </a>
+  <a href="https://www.youtube.com/@devopsshack">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?label=YouTube&style=social" />
+  </a>
+  <a href="https://linkedin.com/in/adityajaiswal7">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  </a>
 </p>
 
 ---
@@ -48,33 +63,43 @@
 
 <p align="left">
   <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
   
   <!-- DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
   
   <!-- Backend & Infra -->
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   
   <!-- Testing -->
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   
   <!-- Others -->
-  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
 </p>
+
+---
+
+### 📌 Pinned Projects
+
+- 🔧 [EKS Real-World Setup](https://github.com/jaiswaladi246/aws-eks-realworld)
+- ⚙️ [CI/CD with Jenkins and K8s](https://github.com/jaiswaladi246/jenkins-k8s-cicd)
+- 🌩️ [AWS Infra with Terraform](https://github.com/jaiswaladi246/aws-terraform-infra)
+- 📊 [Monitoring Stack with Grafana + Prometheus](https://github.com/jaiswaladi246/k8s-monitoring)
+- 🧪 [Automation Testing with Selenium](https://github.com/jaiswaladi246/selenium-java-framework)
 
 ---
 
@@ -102,15 +127,15 @@
 
 ---
 
-### 📌 Featured Projects
+### 🤝 Open to Collaborations
 
-- 🚀 [All My Projects on GitHub »](https://github.com/jaiswaladi246)
-- 🧰 [Real-World DevOps Projects](https://www.youtube.com/@devopsshack)
-- 🌩️ [AWS Projects | K8s Labs | Monitoring Stack](https://github.com/jaiswaladi246?tab=repositories)
+- 🎤 Guest Sessions / Webinars
+- 🤝 Project Collabs / YouTube Collabs
+- 💼 DevOps Consulting / Mentorship
+- 📧 Let's chat: **adityajaiswal.devops@gmail.com**
 
 ---
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
 
 ---
-
