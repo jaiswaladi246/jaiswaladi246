@@ -63,8 +63,7 @@
 
 ### 🐍 Contribution Graph Snake Animation
 
-```html
-<!-- Place this in your README.md file -->
 <p align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
