@@ -64,15 +64,14 @@
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40"/>
 </p>
 
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=jaiswaladi246&theme=vue&hide_border=true" alt="GitHub Streak" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaiswaladi246)](https://git.io/streak-stats)
 
----
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
