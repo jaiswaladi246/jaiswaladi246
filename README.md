@@ -73,7 +73,7 @@
 
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaiswaladi246&theme=vue&hide_border=true)
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
