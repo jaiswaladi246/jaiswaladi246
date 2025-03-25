@@ -69,9 +69,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jaiswaladi246)](https://git.io/streak-stats)
-
-
+<p><img align="center" src="https://streak-stats.demolab.com/?user=jaiswaladi246&theme=vue&hide_border=true&r=1" alt="GitHub Streak" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
