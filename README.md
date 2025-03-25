@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 - 💬 Ask me about **DevOps & Cloud DevOps**
-- 📫 How to reach me  **office@devopsshack.com**  or @devopsshack onTelegram/Instagram
+- 📫 How to reach me  **office@devopsshack.com** 
 
 ---
 
