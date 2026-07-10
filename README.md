@@ -31,56 +31,35 @@
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
-```yaml
-user: aditya@devopsshack
+<p>
+  <img src="https://img.shields.io/badge/Name-Aditya%20Jaiswal-1f6feb?style=for-the-badge" alt="Name: Aditya Jaiswal" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 7+ Years" />
+  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: India" />
+</p>
 
-name: Aditya Jaiswal
-title: DevOps & Cloud Engineer
-brand: DevOps Shack
-location: India
-experience: 7+ Years
+<p>
+  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps and Cloud Engineer" />
+  <img src="https://img.shields.io/badge/Brand-DevOps%20Shack-e4405f?style=for-the-badge" alt="Brand: DevOps Shack" />
+</p>
 
-focus:
-  - DevOps
-  - DevSecOps
-  - Cloud Computing
-  - CI/CD Automation
-  - Infrastructure as Code
-  - Kubernetes
-  - GitOps
-  - Observability
-  - AI for DevOps
+I am a passionate **DevOps and Cloud Engineer from India** with over **7 years of experience** in cloud infrastructure, automation, CI/CD, DevSecOps and modern software delivery.
 
-cloud:
-  - AWS
-  - Microsoft Azure
+Alongside my corporate IT career, I run **DevOps Shack**, where I create practical tutorials, production-grade projects and technical content to help engineers learn DevOps through real implementation.
 
-editors:
-  - Visual Studio Code
-  - IntelliJ IDEA
-  - Vim
+### Currently Working On
 
-status: Helping people learn DevOps practically
-```
-
----
-
-## `$ cat about-me.txt`
-
-I am a passionate **DevOps and Cloud Engineer from India** with over **7 years of experience** in DevOps, cloud platforms, automation and modern software delivery.
-
-Alongside my corporate IT career, I run **DevOps Shack**, where I create practical tutorials, hands-on projects and technical content around DevOps, DevSecOps, cloud computing and AI for DevOps.
-
-```text
-$ current_mission
-
-> Make complex DevOps concepts easy to understand
-> Build production-grade DevOps projects
-> Help engineers develop practical industry skills
-> Share real-world knowledge through DevOps Shack
-```
+<p>
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/DevSecOps-DC143C?style=flat-square" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/AI%20for%20DevOps-7B61FF?style=flat-square" alt="AI for DevOps" />
+</p>
 
 - 👨‍💻 Projects: [github.com/jaiswaladi246](https://github.com/jaiswaladi246)
 - 💬 Ask me about **DevOps, DevSecOps, AWS, Azure, Kubernetes and CI/CD**
@@ -171,23 +150,19 @@ At **DevOps Shack**, I create content about:
 
 ---
 
-## `$ collaboration --status`
+## 🤝 Open to Collaborations
 
-```yaml
-available_for:
-  guest_sessions: true
-  webinars: true
-  project_collaborations: true
-  youtube_collaborations: true
-  devops_consulting: true
-  technical_mentorship: true
+<p>
+  <img src="https://img.shields.io/badge/Guest%20Sessions-Available-2ea44f?style=for-the-badge" alt="Guest Sessions Available" />
+  <img src="https://img.shields.io/badge/Webinars-Available-2ea44f?style=for-the-badge" alt="Webinars Available" />
+  <img src="https://img.shields.io/badge/YouTube%20Collabs-Open-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Collaborations Open" />
+</p>
 
-contact:
-  email: office@devopsshack.com
-  linkedin: linkedin.com/in/adityajaiswal7
-  youtube: youtube.com/@devopsshack
-  instagram: instagram.com/devopsshack
-```
+- 🎤 Guest sessions and technical webinars
+- 🤝 DevOps project collaborations
+- 🎥 YouTube collaborations
+- 💼 DevOps consulting
+- 🧭 Technical mentorship
 
 ---
 
