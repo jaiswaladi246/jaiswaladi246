@@ -2,22 +2,22 @@
 
 # Hey Everyone 👋, I'm Aditya Jaiswal
 
-### DevOps & Cloud Engineer · Educator · Founder of DevOps Shack
+### DevOps & Cloud Engineer · Educator · DevOps Shack
 
 <a href="https://www.youtube.com/@devopsshack">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=for-the-badge&logo=youtube&label=DevOps%20Shack&color=FF0000" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=for-the-badge&logo=youtube&label=DevOps%20Shack&color=FF0000" alt="DevOps Shack YouTube subscribers" />
 </a>
 <a href="https://github.com/jaiswaladi246">
-  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 </a>
 <a href="https://linkedin.com/in/adityajaiswal7">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/devopsshack">
-  <img src="https://img.shields.io/badge/Instagram-DevOpsShack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-DevOpsShack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
@@ -26,10 +26,12 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOps Shack Banner">
+  <img width="100%" src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/Banner.png" alt="DevOps Shack Banner" />
 </div>
 
 ---
+
+## `$ whoami`
 
 ```yaml
 user: aditya@devopsshack
@@ -63,10 +65,6 @@ editors:
 status: Helping people learn DevOps practically
 ```
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## `$ cat about-me.txt`
@@ -85,7 +83,7 @@ $ current_mission
 ```
 
 - 👨‍💻 Projects: [github.com/jaiswaladi246](https://github.com/jaiswaladi246)
-- 💬 Ask me about **DevOps, DevSecOps, AWS, Azure and Cloud DevOps**
+- 💬 Ask me about **DevOps, DevSecOps, AWS, Azure, Kubernetes and CI/CD**
 - 🎥 YouTube: [DevOps Shack](https://www.youtube.com/@devopsshack)
 - 📧 Email: [office@devopsshack.com](mailto:office@devopsshack.com)
 
@@ -93,29 +91,29 @@ $ current_mission
 
 ## `$ ls technologies/`
 
-### Cloud and DevOps
+### Cloud, DevOps and Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps tools"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,git,github,gitlab,linux,bash&perline=12" alt="Cloud and DevOps technologies" />
 </p>
 
 ### Development and Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,mysql,nginx,vscode,idea,postman&perline=12" alt="Development tools"/>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,html,mysql,nginx,vscode,idea,postman&perline=12" alt="Development and automation technologies" />
 </p>
 
 ### DevOps Ecosystem
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
 </p>
 
 ---
@@ -139,55 +137,37 @@ At **DevOps Shack**, I create content about:
 └── Agentic AI and AI for DevOps
 ```
 
-<div align="center">
-
-<a href="https://www.youtube.com/@devopsshack">
-  <img src="https://img.shields.io/badge/Watch%20DevOps%20Shack-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/@devopsshack">
+    <img src="https://img.shields.io/badge/Watch%20DevOps%20Shack-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DevOps Shack on YouTube" />
+  </a>
+</p>
 
 ---
 
-## `$ github-stats --user jaiswaladi246`
+## `$ github --profile-summary`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub statistics"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswaladi246&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jaiswaladi246?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/jaiswaladi246/jaiswaladi246?style=for-the-badge&logo=github&label=Profile%20Updated" alt="Profile repository last commit" />
+  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
 ## `$ git streak`
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jaiswaladi246&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaiswaladi246&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## `$ git log --graph --all`
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswaladi246&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph"/>
-
-</div>
-
----
-
-## `$ github-trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaiswaladi246&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub trophies"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiswaladi246&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution graph" />
+</p>
 
 ---
 
@@ -215,16 +195,16 @@ contact:
 
 <p align="center">
   <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/badge/YouTube-DevOps%20Shack-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-DevOps%20Shack-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://instagram.com/devopsshack">
-    <img src="https://img.shields.io/badge/Instagram-DevOps%20Shack-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-DevOps%20Shack-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:office@devopsshack.com">
-    <img src="https://img.shields.io/badge/Email-office@devopsshack.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-office%40devopsshack.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -232,10 +212,10 @@ contact:
 
 <div align="center">
 
-### “Helping people crack DevOps with practical, real-world knowledge.”
+### Helping people crack DevOps with practical, real-world knowledge.
 
 ```text
-Let us build and automate the future — one pipeline at a time.
+Build • Automate • Secure • Scale
 ```
 
 **⭐ Follow [jaiswaladi246](https://github.com/jaiswaladi246) for practical DevOps projects**
