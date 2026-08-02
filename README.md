@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/Banner.png" alt="DevOps Shack Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/Banner1.png" alt="DevOps Shack Banner" />
 </div>
 
 ---
